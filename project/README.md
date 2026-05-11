@@ -1,5 +1,5 @@
 # Minigame Medley
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://www.youtube.com/watch?v=PD_UJiKZop4
 #### Description:
 ```
     This is Minigame Medley. It supports three different games: rock, paper, scissors, flappy duck, and a guessing game. The first thing it does is import the libraries system, pygame, and random. After that, the main function calls for input stored in a variable called "game". Then, it checks to see if the variable "game" equals the following: "a", "b", "c" or "d". If "game" does not equal "a", "b", "c", or "d", it re-prompts the user.
